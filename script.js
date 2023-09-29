@@ -25,4 +25,4 @@ let multiplicação = num1 * nun2 * nun3 * nun4 * nun5;
 console.log("resultado da multiplicação" , multiplicação);
 // divisão
 let divisão = num1 / nun2 / nun3 / nun4 / nun5;
-console.log("resultado da divisao", divisão)
+console.log("resultado da divisao", divisão);
